@@ -1,49 +1,25 @@
-# Hey there — I'm Paul 👋
+# Hey — I'm Paul 👋
 
-I'm an Australian iOS engineer with over a decade of experience building polished, high-scale apps across fintech, publishing, and wellness. I’ve led mobile teams, shipped App Store features used by millions, and contributed to open source projects like **WordPress iOS** and **Gutenberg Mobile**.
-
----
-
-## 🚀 What I’ve Done
-
-- 🏆 **Automattic (2020–2025)**  
-  Contributed to **Day One** (Apple Design Award winner), and led iOS initiatives for **WordPress** and **Jetpack**  
-  → Owned biweekly iOS/macOS releases, managing TestFlight builds, App Store submissions, hotfixes, signing, and translations in 28 languages  
-  → Shipped features like subscription management, domain purchases, and a 3-column iPad layout — all while keeping a 99.9% crash-free rate  
-  → Migrated 250K+ users from WordPress to Jetpack, coordinating across mobile, backend, comms, and marketing
-
-- 💼 **WeightWatchers**  
-  Delivered new features and maintained CocoaPods across high-traffic iOS/iPad apps in a fast-paced Agile team
-
-- 🏦 **Roshka**  
-  Built and led mobile banking apps for Itaú, BBVA, and more — implementing certificate pinning, biometric auth, and server-driven UIs  
-  → Grew and managed a cross-platform team of 10 engineers; shipped apps used by hundreds of thousands and ranked top 5 in Paraguay's App Store
+I’m an Australian iOS engineer with 10+ years of experience building features used by millions across the **Day One** and **WordPress iOS** apps.
 
 ---
 
 ## 💻 Open Source Contributions
 
-I’ve contributed multiple PRs to:
+At Automattic, I made sponsored open source contribitions to a number of popular repos: 
+
 - [**WordPress iOS**](https://github.com/wordpress-mobile/WordPress-iOSpulls?q=is%3Apr+author%3Aguarani+is%3Aclosed)
 - [**Gutenberg Mobile**](https://github.com/WordPress/gutenberg/pulls?q=is%3Apr+author%3Aguarani+is%3Aclosed)
 - [**Gutenberg**](https://github.com/WordPress/gutenberg/pulls?q=is%3Apr+author%3Aguarani+is%3Aclosed)
 
----
+I became proficient at working asynchronously on teams spanning EU, US, and APAC timezones. I shipped UIKit and SwiftUI features, managed iOS fortnightly releases and contributed to the direction of the WordPress Mobile team (see my post, [Contribute to the Future of the WordPress App]([url](https://make.wordpress.org/mobile/2023/04/11/contribute-to-the-future-of-the-wordpress-app/))).
 
-## 🔧 Skills I Use Often
-
-- **Swift**, **SwiftUI**, **UIKit**, **App Store Connect**
-- Release coordination, product quality, and shipping confidently to hundreds of thousands of users
-- Async collaboration across time zones (EU, US, APAC)
-- I’ve also dabbled in React Native and Android, but iOS is home 🛠️
-
----
+You can also read more about my work at Automattic [on the Mobile.blog](https://mobile.blog/paul-von-schrottky/).
 
 ## 🗺 About Me
 
-- 🇦🇺 Australian, currently based in Paraguay
-- 🎓 Engineering degree from Griffith University
-- 🤝 I love solving real problems for users and working on meaningful apps 
+- 🇦🇺 I'm Australian, based in Paraguay, and I speak both English and Spanish fluently
+- 🇵🇾 My GitHub username, `guarani`, comes from Paraguay's official Guaraní language
 
 ---
 
