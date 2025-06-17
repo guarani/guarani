@@ -7,7 +7,7 @@ I'm an Australian iOS engineer with over a decade of experience building polishe
 ## 🚀 What I’ve Done
 
 - 🏆 **Automattic (2020–2025)**  
-  Led iOS development for **Day One** (Apple Design Award winner), **WordPress**, and **Jetpack**  
+  Contributed to **Day One** (Apple Design Award winner), and led iOS initiatives for **WordPress** and **Jetpack**  
   → Owned biweekly iOS/macOS releases, managing TestFlight builds, App Store submissions, hotfixes, signing, and translations in 28 languages  
   → Shipped features like subscription management, domain purchases, and a 3-column iPad layout — all while keeping a 99.9% crash-free rate  
   → Migrated 250K+ users from WordPress to Jetpack, coordinating across mobile, backend, comms, and marketing
