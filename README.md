@@ -19,7 +19,7 @@ You can also read more about my work at Automattic [on the Mobile.blog](https://
 ## 🗺 About Me
 
 - 🇦🇺 I'm Australian, based in Paraguay, and I speak both English and Spanish fluently
-- 🇵🇾 My GitHub username, `guarani`, comes from Paraguay's official Guaraní language
+- 🇵🇾 My GitHub username, `guarani`, comes from Paraguay's Guaraní language
 
 ---
 
