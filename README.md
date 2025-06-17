@@ -8,7 +8,7 @@ I’m an Australian iOS engineer with 10+ years of experience building features 
 
 At Automattic, I made sponsored open source contribitions to a number of popular repos: 
 
-- [**WordPress iOS**](https://github.com/wordpress-mobile/WordPress-iOSpulls?q=is%3Apr+author%3Aguarani+is%3Aclosed)
+- [**WordPress iOS**](https://github.com/wordpress-mobile/WordPress-iOS/pulls?q=is%3Apr+author%3Aguarani+is%3Aclosed)
 - [**Gutenberg Mobile**](https://github.com/WordPress/gutenberg/pulls?q=is%3Apr+author%3Aguarani+is%3Aclosed)
 - [**Gutenberg**](https://github.com/WordPress/gutenberg/pulls?q=is%3Apr+author%3Aguarani+is%3Aclosed)
 
