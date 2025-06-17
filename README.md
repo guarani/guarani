@@ -26,7 +26,7 @@ I'm an Australian iOS engineer with over a decade of experience building polishe
 I’ve contributed multiple PRs to:
 - [**WordPress iOS**](https://github.com/wordpress-mobile/WordPress-iOSpulls?q=is%3Apr+author%3Aguarani+is%3Aclosed)
 - [**Gutenberg Mobile**](https://github.com/WordPress/gutenberg/pulls?q=is%3Apr+author%3Aguarani+is%3Aclosed)
-→ [**Gutenberg**](https://github.com/WordPress/gutenberg/pulls?q=is%3Apr+author%3Aguarani+is%3Aclosed)
+- [**Gutenberg**](https://github.com/WordPress/gutenberg/pulls?q=is%3Apr+author%3Aguarani+is%3Aclosed)
 
 ---
 
@@ -43,9 +43,8 @@ I’ve contributed multiple PRs to:
 
 - 🇦🇺 Australian, currently based in Paraguay
 - 🎓 Engineering degree from Griffith University
-- 🤝 I love solving real problems for users and working with cross-functional teams
+- 🤝 I love solving real problems for users and working on meaningful apps 
 
 ---
 
-📫 [Let’s connect on LinkedIn](https://www.linkedin.com/in/paulvs/)  
-💬 Pronouns: He/Him
+📫 [Let’s connect on LinkedIn](https://www.linkedin.com/in/paulvs/)
