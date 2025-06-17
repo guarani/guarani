@@ -12,7 +12,7 @@ At Automattic, I made sponsored open source contribitions to a number of popular
 - [**Gutenberg Mobile**](https://github.com/WordPress/gutenberg/pulls?q=is%3Apr+author%3Aguarani+is%3Aclosed)
 - [**Gutenberg**](https://github.com/WordPress/gutenberg/pulls?q=is%3Apr+author%3Aguarani+is%3Aclosed)
 
-I became proficient at working asynchronously on teams spanning EU, US, and APAC timezones. I shipped UIKit and SwiftUI features, managed iOS fortnightly releases and contributed to the direction of the WordPress Mobile team (see my post, [Contribute to the Future of the WordPress App]([url](https://make.wordpress.org/mobile/2023/04/11/contribute-to-the-future-of-the-wordpress-app/))).
+I became proficient at working asynchronously on teams spanning EU, US, and APAC timezones. I shipped UIKit and SwiftUI features, managed iOS fortnightly releases and contributed to the direction of the WordPress Mobile team (see my post, [Contribute to the Future of the WordPress App](https://make.wordpress.org/mobile/2023/04/11/contribute-to-the-future-of-the-wordpress-app/)).
 
 You can also read more about my work at Automattic [on the Mobile.blog](https://mobile.blog/paul-von-schrottky/).
 
