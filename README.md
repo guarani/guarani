@@ -20,7 +20,8 @@ You can also read more about my work at Automattic [on the Mobile.blog](https://
 
 - 🇦🇺 I'm Australian, based in Paraguay, and I speak both English and Spanish fluently
 - 🇵🇾 My GitHub username, `guarani`, comes from Paraguay's Guaraní language
+- 🗃️ My dotfiles are here: https://github.com/guarani/dotfiles
 
 ---
 
-📫 [Let’s connect on LinkedIn](https://www.linkedin.com/in/paulvs/)
+📫 [Let’s connect on LinkedIn](https://www.linkedin.com/in/paulvs/) or at https://schrottky.dev/
